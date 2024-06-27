@@ -1,0 +1,11 @@
+2,09-06-2024,Lion Air,Soekarno Hatta(CGK),Kuala Lumpur(KNO),2500000,10
+3,09-06-2024,Lion Air,Soekarno Hatta(CGK),Kuala Lumpur(KNO),2500000,10
+4,09-06-2024,Lion Air,Soekarno Hatta(CGK),Kuala Lumpur(KNO),2500000,10
+5,09-06-2024,Lion Air,Soekarno Hatta(CGK),Kuala Lumpur(KNO),2500000,10
+6,08-07-2009,Lion Air,Bandung,Jakarta,1200000,8
+7,09-09-2024,Lion Space,Simgapore,Indonesia,2500000,10
+8,09-06-2024,Lion Cek,Bandung,Bali,2000000,4
+9,09-06-2024,Lion Gowes,Margaasih,Bandung,2500000,10
+10,08-08-2024,Air Line,Bandung,Jakarta,2500000,8
+11,09-06-2024,Lion Spire,Bali,Bandung,2500000,2
+12,19,p,bandunf,bali,1000000,1

@@ -1,0 +1,16 @@
+TP0011,08-09-2024,Lion Goat,Bandung-Jakarta,Asep,Sudirman,null,null,2,2750000,5500000
+TP0013,09-08-2024,Air Line,Bandung-Sulawesi,k,k,null,null,2,3000000,6000000
+TP0011,08-09-2024,Lion Goat,Bandung-Jakarta,asep,null,null,null,1,2750000,2750000
+TP008,09-06-2024,Lion Cek,Bandung-Bali,f,f,null,null,2,2000000,4000000
+TP008,09-06-2024,Lion Cek,Bandung-Bali,d,d,null,null,2,2000000,4000000
+TP008,09-06-2024,Lion Cek,Bandung-Bali,d,d,null,null,2,2000000,4000000
+TP0012,08-08-2024,Air Line,Bandung-Jaksrta,d,d,null,null,2,2500000,5000000
+TP0010,08-08-2024,Air Line,Bandung-Jakarta,d,d,null,null,2,2500000,5000000
+TP0010,08-08-2024,Air Line,Bandung-Jakarta,du,du,null,null,2,2500000,5000000
+TP0011,08-09-2024,Lion Goat,Bandung-Jakarta,d,d,null,null,2,2750000,5500000
+TP0010,08-08-2024,Air Line,Bandung-Jakarta,jaya,juya,null,null,2,2500000,5000000
+TP006,08-07-2009,Lion Air,Bandung-Jakarta,Jaya,Juga,null,null,2,1200000,2400000
+TP008,09-06-2024,Lion Cek,Bandung-Bali,Asep,Usa,null,null,2,2000000,4000000
+TP0011,09-06-2024,Lion Spire,Bali-Bandung,Asep,Uman,gosi,Sios,4,2500000,10000000
+TP0011,09-06-2024,Lion Spire,Bali-Bandung,P,P,P,P,4,2500000,10000000
+TP008,09-06-2024,Lion Cek,Bandung-Bali,Asep,Asep,Asep,Asep,4,2000000,8000000
